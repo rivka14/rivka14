@@ -1,5 +1,5 @@
 <!-- ## Hi there 👋 -->
-[![GitHub Streak](https://streak-stats.demolab.com?user=rivka14&theme=dark&border_radius=10&exclude_days=Wed%2CFri%2CSat)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=rivka14&theme=dark&border_radius=10&exclude_days=Wed%2CSat)](https://git.io/streak-stats)
 <!--
 **rivka14/rivka14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
