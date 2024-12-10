@@ -6,7 +6,7 @@
 <a href="rw8881234@gmail.com">[![My Skills](https://skillicons.dev/icons?i=gmail&theme=dark)](mailto:rw8881234@gmail.com)</a>
 -->
 # Languages and Tools:
-[![My Skills](https://skillicons.dev/icons?i=html,css,scss,js,typescript,react,angular&perline=7)]() [![My Skills](https://skillicons.dev/icons?i=java,nodejs,cs,dotnet,py&perline=9)]() [![My Skills](https://skillicons.dev/icons?i=gcp,aws,postman,git,github,docker&perline=13)]() [![My Skills](https://skillicons.dev/icons?i=mongodb,postgres,sqlite&perline=13)]() [![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio,eclipse,pycharm&perline=6)]()
+[![My Skills](https://skillicons.dev/icons?i=html,css,scss,js,typescript,react,angular&perline=7)]() [![My Skills](https://skillicons.dev/icons?i=java,nodejs,cs,dotnet,py&perline=9)]() [![My Skills](https://skillicons.dev/icons?i=gcp,aws,postman,git,github,docker&perline=13)]() [![My Skills](https://skillicons.dev/icons?i=mongodb,postgres,sqlite&perline=13)]() [![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio,eclipse,pycharm,Linux&perline=6)]()
 <br>
 <br>
 <!--  ### My GitHub Overview-->
