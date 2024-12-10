@@ -26,11 +26,6 @@
 
 [![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio,eclipse,pycharm&perline=6)]()
 
-
-
-
-[![My Skills](https://skillicons.dev/icons?i=pr,ae&perline=6)]()
-
 ### My GitHub Overview
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rivka14&show_icons=true&theme=light)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rivka14&layout=compact&theme=light)
