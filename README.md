@@ -1,4 +1,7 @@
 <!-- ## Hi there 👋 -->
+<h1 align="center">Hi 👋, I'm Rivka Weiss</h1>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 [![GitHub Streak](https://streak-stats.demolab.com?user=rivka14&theme=dark&border_radius=10&exclude_days=Fri%2CSat)](https://git.io/streak-stats)
 <!--
 **rivka14/rivka14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
