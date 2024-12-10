@@ -7,12 +7,15 @@
 -->
 # Languages and Tools:
 [![My Skills](https://skillicons.dev/icons?i=html,css,scss,js,typescript,react,angular&perline=7)]() [![My Skills](https://skillicons.dev/icons?i=java,nodejs,cs,dotnet,py&perline=9)]() [![My Skills](https://skillicons.dev/icons?i=gcp,aws,postman,git,github,docker&perline=13)]() [![My Skills](https://skillicons.dev/icons?i=mongodb,postgres,sqlite&perline=13)]() [![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio,eclipse,pycharm&perline=6)]()
-
+<br>
+<br>
 <!--  ### My GitHub Overview-->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rivka14&show_icons=true&theme=dark&border_radius=10&perline=9) [![GitHub Streak](https://streak-stats.demolab.com?user=rivka14&theme=dark&border_radius=10&exclude_days=Fri%2CSat)](https://git.io/streak-stats)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rivka14&show_icons=true&theme=dark&border_radius=10&perline=9) 
+<br>
+<br>
+[![GitHub Streak](https://streak-stats.demolab.com?user=rivka14&theme=dark&border_radius=10&exclude_days=Fri%2CSat)](https://git.io/streak-stats)
 
-<br>
-<br>
+
 <!-- (Languages used) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rivka14&layout=compact&theme=dark)-->
 
 
