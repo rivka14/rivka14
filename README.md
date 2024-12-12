@@ -14,8 +14,7 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rivka14&show_icons=true&theme=dark&border_radius=10&perline=9) 
 <br>
 <br>
-[![GitHub Streak](https://streak-stats.demolab.com?user=rivka14&theme=dark&border_radius=10&exclude_days=Fri%2CSat)](https://git.io/streak-stats)
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=rivka14&theme=dark&border_radius=10&date_format=j%20M%5B%20Y%5D&exclude_days=Wed%2CFri%2CSat)](https://git.io/streak-stats)
 
 <!-- (Languages used) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rivka14&layout=compact&theme=dark)-->
 
