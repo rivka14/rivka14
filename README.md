@@ -6,13 +6,13 @@
 <br>
 <br>
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rivka14&show_icons=true&theme=jolly&bg_color=00000000&border_radius=10&perline=9) 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rivka14&show_icons=true&theme=transparent&border_radius=10&perline=9) 
 <br>
 <br>
-[![GitHub Streak](https://streak-stats.demolab.com?user=rivka14&theme=jolly&bgcolor=00000000&border_radius=10&date_format=j%20M%5B%20Y%5D&exclude_days=Wed%2CFri%2CSat)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=rivka14&theme=transparent&border_radius=10&date_format=j%20M%5B%20Y%5D&exclude_days=Wed%2CFri%2CSat)](https://git.io/streak-stats)
 <br>
 <br>
-![](https://github-contributor-stats.vercel.app/api?username=rivka14&limit=5&theme=jolly&bg_color=00000000&border_radius=10&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=rivka14&limit=5&theme=transparent&border_radius=10&combine_all_yearly_contributions=true)
 <br>
 <br>
 <!-- 
