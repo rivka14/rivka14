@@ -15,8 +15,7 @@
 ![](https://github-contributor-stats.vercel.app/api?username=rivka14&limit=5&theme=dark&border_radius=10&combine_all_yearly_contributions=true)
 <br>
 <br>
-                                                       <!--    -  -->
-[![](https://visitcount.itsvg.in/api?id=rivka14.v&icon=0&color=9&theme=dark&border_radius=10)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=rivka14.v&icon=0&color10&theme=dark&border_radius=10)](https://visitcount.itsvg.in)
 <!-- (Languages used) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rivka14&layout=compact&theme=dark)-->
 <div align="center">
      <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
