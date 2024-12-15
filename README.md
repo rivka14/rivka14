@@ -6,7 +6,7 @@
 <br>
 <br>
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rivka14&show_icons=true&theme=jolly&border_radius=10&perline=9) 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rivka14&show_icons=true&theme=transparent&border_radius=10&perline=9) 
 <br>
 <br>
 [![GitHub Streak](https://streak-stats.demolab.com?user=rivka14&theme=jolly&border_radius=10&date_format=j%20M%5B%20Y%5D&exclude_days=Wed%2CFri%2CSat)](https://git.io/streak-stats)
