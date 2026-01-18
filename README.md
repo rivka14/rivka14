@@ -21,12 +21,15 @@
   Cursor • Claude Code • GitHub Copilot • n8n
 
   ---
-
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rivka14&show_icons=true&theme=transparent&border_radius=10)
-
+  
   [![GitHub Streak](https://streak-stats.demolab.com?user=rivka14&theme=transparent&border_radius=10&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
+<!--  not working well
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rivka14&show_icons=true&theme=transparent&border_radius=10)
+
   ![GitHub Contributor Stats](https://github-contributor-stats.vercel.app/api?username=rivka14&limit=5&theme=transparent&border_radius=10&combine_all_yearly_contributions=true)
+-->
+
 
   <div align="center">
      <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
